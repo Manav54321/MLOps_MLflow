@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/manavdesai/Desktop/GitHub/MLOps_MLflow/mlruns/468595244226503774/6fcb28df5bc84e338284ef3afebd203f/artifacts
+end_time: 1742486136150
+entry_point_name: ''
+experiment_id: '468595244226503774'
+lifecycle_stage: active
+run_id: 6fcb28df5bc84e338284ef3afebd203f
+run_name: rumbling-cub-875
+run_uuid: 6fcb28df5bc84e338284ef3afebd203f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742486127952
+status: 3
+tags: []
+user_id: manavdesai

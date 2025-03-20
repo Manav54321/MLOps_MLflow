@@ -1,0 +1,6 @@
+artifact_location: file:///Users/manavdesai/Desktop/GitHub/MLOps_MLflow/mlruns/468595244226503774
+creation_time: 1742486126777
+experiment_id: '468595244226503774'
+last_update_time: 1742486126777
+lifecycle_stage: active
+name: breast-cancer-rf-hp
